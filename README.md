@@ -35,4 +35,3 @@ This project aims to analyze and optimize energy consumption data for various co
       ```bash
       chmod 600 ~/.kaggle/kaggle.json
       ```
-
